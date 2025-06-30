@@ -15,7 +15,7 @@ I'm a data analyst who's drawn to making systems work better for people. I’ve 
 ### 🛠️ Tools & Skills
 
 - **Languages & Tools:** SQL, Python, Excel, Tableau, Google Workspace, Salesforce, SharePoint  
-- **Analytical Strengths:** Documentation, process improvement, stakeholder coordination, data visualization  
+- **Core Strengths:** Documentation, EDA, process improvement, stakeholder coordination, data visualization  
 - **Natural Languages:** English, Russian, French  
 
 ---
