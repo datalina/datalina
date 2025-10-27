@@ -22,7 +22,7 @@ I'm a data analyst who's drawn to making systems work better for people. I’ve 
 
 ### 📁 Selected Projects
 
-*Currently refining a few recent projects, more details coming soon.*
+- [Pathway Health](https://github.com/datalina/pathway-health-analysis)
 
 ---
 
