@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data analyst who's drawn to making systems work better for people. I’ve always been someone who asks thoughtful questions, builds systems to support others, and keeps refining until things *make sense*. Whether it's rebuilding documentation, piecing together data from scratch, or creating tools to make everyday tasks easier, I’m driven by a mix of curiosity, clarity, and care.
+I'm a data analyst who's drawn to making systems work better for people. I’ve always been someone who asks thoughtful questions, builds systems to support others, and keeps refining until things *make sense*. Whether it's rebuilding documentation, piecing together data from scratch, or creating tools to make everyday tasks easier, I remain curious, work toward clarity, and keep quality front and center.
 
 ### 👩‍💻 About Me
 
