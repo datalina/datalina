@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data analyst who's drawn to making systems work better for people. I’ve always been someone who asks thoughtful questions, builds systems to support others, and keeps refining until things *make sense*. Whether it's rebuilding documentation, piecing together data from scratch, or creating tools to make everyday tasks easier, I remain curious, work toward clarity, and keep quality front and center.
+I'm a data-savvy professional who's drawn to making systems work better for people. I’ve always been someone who asks thoughtful questions, builds systems to support others, and keeps refining until things *make sense*. Whether it's rebuilding documentation, piecing together data from scratch, or creating tools to make everyday tasks easier, I remain curious, work toward clarity, and keep quality front and center.
 
 ### 👩‍💻 About Me
 
@@ -15,7 +15,7 @@ I'm a data analyst who's drawn to making systems work better for people. I’ve 
 ### 🛠️ Tools & Skills
 
 - **Languages & Tools**: SQL, Python, Excel, Tableau, Google Workspace, Salesforce, SharePoint  
-- **Core Strengths**: Documentation, EDA, process improvement, stakeholder coordination, data visualization  
+- **Core Strengths**: Documentation, EDA, process improvement, stakeholder coordination and communication, data visualization  
 - **Natural Languages**: English, Russian, French  
 
 ---
@@ -28,7 +28,7 @@ I'm a data analyst who's drawn to making systems work better for people. I’ve 
 
 ### 🌱 Currently
 
-- Interested in: data roles that support smarter decisions, clearer systems, and more effective services, especially where people and processes meet  
+- Interested in: data-informed roles that support smarter decisions, clearer systems, and more effective services, especially where people and processes meet  
 - Always thinking about: how to make tools, workflows, and insights easier to understand, easier to trust, and easier to act on
 
 ---
